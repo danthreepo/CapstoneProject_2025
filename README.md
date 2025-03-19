@@ -1,6 +1,6 @@
 # Scifi Movies Available on Streaming Services Analysis
 
-This is my capstone project analyzes the availability of science fiction movies on various streaming services. The analysis is performed using Python and Jupyter Notebooks, leveraging libraries such as pandas, kagglehub, and matplotlib.
+This is my capstone project.  The purpose is to determine the availability of science fiction movies on various streaming services. The analysis is performed using Python and Jupyter Notebooks, leveraging libraries such as pandas, kagglehub, and matplotlib.
 
 ## Project Structure
 
